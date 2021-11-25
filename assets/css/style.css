@@ -14,11 +14,13 @@
     width: 600px;
     height: 400px;
     border-radius: 10px;
-    border: 1px solid #444;
+    /* border: 1px solid #444; */
     padding: 12px;
+    box-shadow: 0 0 7px rgba(0 , 0, 0, 0.3)
 }
 .hero .card h1{
     color: rgb(109, 4, 179)
+    
 }
 .hero .card p{
     color: #444;
